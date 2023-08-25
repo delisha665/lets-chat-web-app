@@ -1,0 +1,12 @@
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+.user_tick
+{
+	width:20px;
+}
